@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment 201614122</string>
+    <string name="home">Home</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="proximity">Proximity</string>
+    <string name="shake_detector">Shake Detector</string>
+    <string name="map_route">Map Route</string>
+    <string name="gyroscope_data">Gyroscope Data</string>
+    <string name="act">Activity</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="emg_no">01010101010</string>
+    <string name="accelerometer">Accelerometer</string>
+</resources>
